@@ -41,4 +41,4 @@ Together, they form a small **hardware processor** that automatically computes G
 **✍️ Author**
 **Harish Chittaragi**  
 VLSI Design & Verification Enthusiast  
-**[GitHub: harishchittaragi](https://github.com/harishchittaragi)**
+[GitHub: harishchittaragi](https://github.com/harishchittaragi)
